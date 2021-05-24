@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72a4ceaa-8fe4-4d8d-b05e-212077b7bf84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActivatePlanetUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnableRayShoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroutineManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnableRayShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActivatePlanetUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroutineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Instantiateplanet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateAround.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateAxis.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GORotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectPlanet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kyD0hXzc1X3XGMET8LNHDBghaj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a4ceaa-8fe4-4d8d-b05e-212077b7bf84" name="Default Changelist" comment="" />
+      <created>1606663716275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606663716275</updated>
+      <workItem from="1606663720001" duration="6000" />
+      <workItem from="1606663809593" duration="3141000" />
+      <workItem from="1606679194208" duration="5712000" />
+      <workItem from="1606727196070" duration="67000" />
+      <workItem from="1606727311130" duration="6000" />
+      <workItem from="1606727379743" duration="1290000" />
+      <workItem from="1606728691258" duration="106000" />
+      <workItem from="1606728880138" duration="2879000" />
+      <workItem from="1606742184182" duration="7224000" />
+      <workItem from="1606759782060" duration="3113000" />
+      <workItem from="1606763788819" duration="2657000" />
+      <workItem from="1606830953462" duration="739000" />
+      <workItem from="1607088991131" duration="7000" />
+      <workItem from="1607089018260" duration="1607000" />
+      <workItem from="1607098763759" duration="2350000" />
+      <workItem from="1607112630051" duration="1221000" />
+      <workItem from="1607156231449" duration="2825000" />
+      <workItem from="1607182888364" duration="2005000" />
+      <workItem from="1607190555879" duration="34000" />
+      <workItem from="1607345057360" duration="1084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="670" y="198" key="RiderGenerateDialog" timestamp="1606762360747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="198" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606762360747" />
+    <state x="250" y="165" key="SettingsEditor" timestamp="1607099319681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="250" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607099319681" />
+    <state x="143" y="242" key="search.everywhere.popup" timestamp="1606727654390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="242" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606727654390" />
+  </component>
+</project>
